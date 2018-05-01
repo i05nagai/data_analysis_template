@@ -1,0 +1,7 @@
+pip
+mysqlclient
+google-cloud-bigquery
+jupyter
+pandas
+holoviews
+plotly
